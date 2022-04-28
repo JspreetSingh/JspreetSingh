@@ -7,8 +7,8 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about flutter and stuff related to that
 - 📫 How to reach me: Linkedin:https://www.linkedin.com/in/jaspreet-singh-470900195/ 
--                     Instagram : https://www.instagram.com/jaspreet.singh15_01/?hl=en 
--                     G-Mail : https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFmXgPxrnfXFztGGSJZFFPVbskqhrztGcTXgpHpvDJszpHpRRbKrVpZmtLGwmWPNlhCZg
+  Instagram : https://www.instagram.com/jaspreet.singh15_01/?hl=en 
+- G-Mail : https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFmXgPxrnfXFztGGSJZFFPVbskqhrztGcTXgpHpvDJszpHpRRbKrVpZmtLGwmWPNlhCZg
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img src="https://github-readme-stats.vercel.app/api?username=JspreetSingh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
