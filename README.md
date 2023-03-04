@@ -1,7 +1,7 @@
 ### Hello, I am Jaspreet Singh 👋
 
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently working on React
 - 🌱 I’m currently learning Dart language
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
